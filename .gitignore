@@ -1,0 +1,6 @@
+# Jupyter Notebooks
+*.ipynb_checkpoints
+
+# conda Environment
+# Ignore entire directory (adjust if your env has a different name)
+env/
